@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushSriv06
-- 👀 I’m interested in Web Development,AWS and devops 
+- 👀 I’m interested in Web Development,DevOps and Cloud Services
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me ayushsrisks@gmail.com
