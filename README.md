@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AyushSriv06<br>👀 I’m interested in Web Development,DevOps and Cloud Services<br>🌱 I’m currently learning DevOps<br>💞️ I’m looking to collaborate on Full Stack Projects<br>📫 How to reach me ayushsrisks@gmail.com<br>😄 Pronouns: Percussionist and add a pinch of singing<br>⚡ Fun fact: Life
+👋 Hi, I’m @AyushSriv06<br>👀 I’m interested in Web Development,DevOps and Cloud Services<br>🌱 I’m currently learning DevOps<br>💞️ I’m looking to collaborate on Full Stack Projects<br>📫 How to reach me ayushsrisks@gmail.com<br>😄 Pronouns: Him/His<br>⚡ Fun fact: Life
 
 
 # 💻 Tech Stack:
